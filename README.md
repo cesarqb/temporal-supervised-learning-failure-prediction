@@ -70,15 +70,13 @@ Este tipo de salida permite apoyar decisiones como:
 
 ├── data/
 ├── notebooks/
-│ ├── 01_exploracion_datos.ipynb
-│ ├── 02_definicion_target.ipynb
-│ ├── 03_feature_engineering.ipynb
-│ ├── 04_entrenamiento_modelo.ipynb
-│ ├── 05_evaluacion.ipynb
+│   ├── 01_exploracion_datos.ipynb
+│   ├── 02_definicion_target.ipynb
+│   ├── 03_feature_engineering.ipynb
+│   ├── 04_entrenamiento_modelo.ipynb
+│   └── 05_evaluacion.ipynb
 ├── src/
 └── README.md
-
-
 
 ---
 

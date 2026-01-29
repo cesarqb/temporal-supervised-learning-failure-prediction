@@ -1,0 +1,25 @@
+Problema de negocio real:
+
+¿Cuánto tiempo de vida útil le queda a un equipo antes de fallar, para poder hacer mantenimiento preventivo y evitar paradas no planificadas?
+
+Esto aplica directamente a:
+- Minería (equipos jumbo, simba, etc.)
+- Manufactura
+- Flotas
+- Oil & Gas
+
+
+¿Qué intenta predecir el dataset?
+
+Hay dos enfoques válidos (y esto es clave para tu GitHub):
+- A. Regresión (clásico)
+- B. RUL – Remaining Useful Life
+
+Enfoque: Clasificación
+
+Riesgo de falla en los próximos X ciclos
+
+Ejemplo:
+- 1 → falla en ≤ 30 ciclos
+- 0 → no falla aún
+
